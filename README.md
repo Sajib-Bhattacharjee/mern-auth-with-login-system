@@ -4,7 +4,7 @@
 
 </div>
 
-      
+ 
 A simple MERN stack project using the MVC architecture where users can register and log in. The project uses MongoDB Compass URL for the database connection. Upon successful login, users are greeted with a personalized message.
     
 ## `Project Structure`
